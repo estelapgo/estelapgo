@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 
-<li>:mortar_board: &nbsp;Final-year Computer Engineering student at Universidade da Coruña, specializing in Computing.</li>
+<li>🎓 Final-year Computer Engineering student at Universidade da Coruña, specializing in computing, and currently pursuing a Master's degree in Cybersecurity.</li>
 <li>:writing_hand: &nbsp;Final project on Curriculum Learning Algorithms for analyzing medical sleep recordings using Python and machine learning libraries.</li>
 <li> 🌱 I’m currently learning more about software development.
 <li>💬 Actively looking for opportunities to apply my skills.</li>
